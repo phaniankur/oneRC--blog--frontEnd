@@ -17,7 +17,7 @@ const theme = {
     // btnBlue: "#4392B5",
     // darkGray: "#637781",
     // fadedRed: "#E4CCC0",
-    // fadedBlue: "#8ED0E0",
+     topBarBlack: "#212529",
   },
 };
 export default theme
